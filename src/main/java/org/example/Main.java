@@ -14,5 +14,8 @@ public class Main {
 
     System.out.println("BCD");
     System.out.println("Acdcsdc");
+
+    Employee emp = new Employee();
+
   }
 }
