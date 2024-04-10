@@ -12,5 +12,7 @@ public class Main {
     * */
     System.out.println("ABC");
 
+    System.out.println("BCD");
+    System.out.println("Acdcsdc");
   }
 }
